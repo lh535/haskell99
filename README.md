@@ -1,5 +1,4 @@
-trying to solve the 99 (in reality 88) problems from this  
-[Haskell Wiki site](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems).  
+trying to solve the 99 (in reality 88) problems from this [Haskell Wiki site](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems).  
 
 
 I'm viewing the solutions after doing each problem, because they often contain interesting approaches  
