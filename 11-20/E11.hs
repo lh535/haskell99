@@ -1,4 +1,5 @@
--- modfiied run-length encoding, where single elements are left as-is
+module E11 (EncodeEl(..), encodeModified) where
+-- modfied run-length encoding, where single elements are left as-is
 
 import E09 (pack)
 
